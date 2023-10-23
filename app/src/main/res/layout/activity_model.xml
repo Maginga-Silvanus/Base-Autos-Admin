@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E4B6A7"
+    tools:context=".ModelActivity">
+
+    <EditText
+        android:id="@+id/mEditName"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="17dp"
+        android:ems="10"
+        android:hint="Enter the model e.g Cx-5"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtTransmission"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/mEdtPrice"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="9dp"
+        android:ems="10"
+        android:hint="Enter Vehicles Price"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtColor"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtTransmission" />
+
+    <EditText
+        android:id="@+id/mEdtColor"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="43dp"
+        android:ems="10"
+        android:hint="Enter Color"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/mBtnUpload"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtPrice" />
+
+    <EditText
+        android:id="@+id/mEdtTransmission"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="21dp"
+        android:ems="10"
+        android:hint="Enter Vehicles Transmission"
+        android:inputType="text"
+        app:layout_constraintBottom_toTopOf="@+id/mEdtPrice"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mEditName" />
+
+    <Button
+        android:id="@+id/mBtnUpload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="#098"
+        android:text="Upload Image"
+        android:textColor="#5F16E1"
+        android:textSize="20sp"
+        app:cornerRadius="15dp"
+        app:layout_constraintBottom_toTopOf="@+id/mBtnView"
+        app:layout_constraintEnd_toStartOf="@+id/mBtnView"
+        app:layout_constraintTop_toBottomOf="@+id/mEdtColor" />
+
+    <Button
+        android:id="@+id/mBtnSave"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginEnd="57dp"
+        android:backgroundTint="#56707C"
+        android:text="save"
+        android:textColor="#5F16E1"
+        android:textSize="20sp"
+        app:cornerRadius="15dp"
+        app:layout_constraintBottom_toBottomOf="@+id/mBtnView"
+        app:layout_constraintEnd_toStartOf="@+id/mBtnView"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/mBtnView" />
+
+    <Button
+        android:id="@+id/mBtnView"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginEnd="32dp"
+        android:layout_marginBottom="142dp"
+        android:backgroundTint="#5D717A"
+        android:text="View"
+        android:textColor="#5F16E1"
+        android:textSize="20sp"
+        app:cornerRadius="15dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/mBtnSave"
+        app:layout_constraintTop_toBottomOf="@+id/mBtnUpload" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

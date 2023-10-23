@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_main.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_display_brands.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_display_brands.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xhdpi_base_launcher.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xhdpi/base_launcher.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-anydpi-v26_base_launcher_round.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-anydpi-v26/base_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxhdpi_base_launcher_foreground.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxhdpi/base_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xhdpi_base_launcher_round.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xhdpi/base_launcher_round.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_login.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_model.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_model.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xhdpi_base_launcher_foreground.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xhdpi/base_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxhdpi_base_launcher_round.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxhdpi/base_launcher_round.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-anydpi-v21_base_launcher_background.xml.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-anydpi-v21/base_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-mdpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-mdpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-mdpi_base_launcher_foreground.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-mdpi/base_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xhdpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xhdpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-mdpi_base_launcher_round.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-mdpi/base_launcher_round.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xxxhdpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xxxhdpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/font_arbutus.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/font/arbutus.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable_logo.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_brands.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_brands.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxxhdpi_base_launcher_round.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxxhdpi/base_launcher_round.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/font_almendra_sc.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/font/almendra_sc.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable_background1.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/drawable/background1.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/font_berkshire_swash.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/font/berkshire_swash.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-mdpi_base_launcher.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-mdpi/base_launcher.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxhdpi_base_launcher.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxhdpi/base_launcher.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxxhdpi_base_launcher.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxxhdpi/base_launcher.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-anydpi-v26_base_launcher.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-anydpi-v26/base_launcher.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-hdpi_base_launcher_round.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-hdpi/base_launcher_round.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-xxhdpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-xxhdpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-hdpi_base_launcher_foreground.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-hdpi/base_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable_background2.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/drawable/background2.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-ldpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-ldpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable_base_logo.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/drawable/base_logo.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_display_models.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_display_models.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/drawable-hdpi_base_launcher_background.png.flat",
+        "source": "com.example.baseadmin.app-pngs-29:/drawable-hdpi/base_launcher_background.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_home.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-xxxhdpi_base_launcher_foreground.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-xxxhdpi/base_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/layout_activity_splash.xml.flat",
+        "source": "com.example.baseadmin.app-main-35:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.baseadmin.app-merged_res-33:/mipmap-hdpi_base_launcher.png.flat",
+        "source": "com.example.baseadmin.app-main-35:/mipmap-hdpi/base_launcher.png"
+    }
+]
